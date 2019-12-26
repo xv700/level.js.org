@@ -1,6 +1,5 @@
-官方网站：https://github.com/xv700/level  
 
-# level.js.org
+# 官方网站：level.js.org
 前端评级组织
 
 1.参加本组织先Fork项目   
