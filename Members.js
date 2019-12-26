@@ -8,5 +8,10 @@ Approval:"Yes",  //是否批准加入level组织
 index:0,//索引 ，demo
 Applicant:"你的git地址",
 Approval:"",  //是否批准加入level组织，申请时候请留空
+},
+{
+index:1,
+Applicant:"https://github.com/jiamu1314",
+Approval:"",  
 }
 ]
