@@ -10,4 +10,4 @@ index:0,//索引 填写时候留空 ，demo
 Applicant:"你的git地址",  
 Approval:"",  //是否批准加入level组织，申请时候请留空    
 }      
-并且PR给我们
+然后点击Pull request给我们
