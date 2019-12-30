@@ -36,4 +36,9 @@ index:9,
 Applicant:"https://github.com/fish0209",
 Approval:"Yes",  
 },
+ {
+index:,//索引 填写时候留空 ，demo 
+Applicant:"https://github.com/YanyanHe",
+Approval:"",  //是否批准加入level组织，申请时候请留空
+}
 ]
