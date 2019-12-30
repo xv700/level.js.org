@@ -18,8 +18,10 @@ Approval:"",
 index:2,
 Applicant:"https://github.com/bailihuiyue",
 Approval:"",  
-}
-{index:0,//索引 填写时候留空 ，demo 
+},
+{
+index:10001,
 Applicant:"https://github.com/ExBeauty",
-Approval:"",  //是否批准加入level组织，申请时候请留空
-}
+Approval:"", 
+},
+]
