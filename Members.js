@@ -13,5 +13,10 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 index:1,
 Applicant:"https://github.com/jiamu1314",
 Approval:"",  
+},
+{
+index:1,
+Applicant:"https://github.com/bailihuiyue",
+Approval:"",  
 }
 ]
