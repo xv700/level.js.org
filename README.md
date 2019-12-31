@@ -20,6 +20,6 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 4.帮你自己完成一个类库或者独立项目，放入git和简历中。  
 5.定期红包活动。（以官网为准）
 
-![image](https://level.js.org/css/20191127221128.jpg)
-<img src="https://level.js.org/css/20191127221128.jpg">
+
+<img src="https://level.js.org/css/20191127221128.jpg" height="66">
 
