@@ -4,7 +4,8 @@
 前端评级组织
 
 1.参加本组织先Fork项目   
-2.添加一个参数  
+
+2.在你Fork的项目编辑Members.js文件，add一个参数  
 {  
 index:"",//索引 填写时候留空 ，demo   
 Applicant:"你的git地址",  
