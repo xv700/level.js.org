@@ -12,7 +12,7 @@ Applicant:"你的git地址",
 Approval:"",  //是否批准加入level组织，申请时候请留空    
 }      
 
-然后点击Pull request给我们
+3.点击Pull request给我们
 
 加入我们你将会得到以下助力：    
 1.全国各个地区的内推招聘。  （支持的地区以官网为准）    
