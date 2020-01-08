@@ -56,11 +56,10 @@ index:10002,
 Applicant:"https://github.com/jinlei8",
 Approval:"Yes",
 },
-  
-  {  
-index:"",//索引 填写时候留空 ，demo   
+{  
+index:"10004",
 Applicant:"https://github.com/BeaHugs",  
-Approval:"yes",  //
-}  
+Approval:"Yes", 
+},
   
 ]
