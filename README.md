@@ -31,7 +31,7 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 ```
 ### 前端游戏
 
-1.贪吃蛇   
+1.贪吃蛇源码     
 https://gitee.com/xv700/retro_snaker  
 
 
