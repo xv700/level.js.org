@@ -25,7 +25,8 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 6.定期红包活动。（以官网为准）  
 ### 最新活动
 ```
-1.学习与面试指南
+1.学习与面试指南  
+第一步基础学习：https://www.runoob.com/js/js-tutorial.html
 
 ```
 <img src="https://level.js.org/css/20191127221128.jpg" height="411" />
