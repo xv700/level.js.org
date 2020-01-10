@@ -29,5 +29,11 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 第一步基础学习：https://www.runoob.com/js/js-tutorial.html
 第二步热点面试题：  
 ```
+### 前端游戏
+
+1.贪吃蛇   
+https://gitee.com/xv700/retro_snaker  
+
+
 <img src="https://level.js.org/css/20191127221128.jpg" height="411" />
 
