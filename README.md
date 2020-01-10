@@ -24,12 +24,12 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 5.帮你自己完成一个类库或者独立项目，放入git和简历中。  
 6.定期红包活动。（以官网为准）  
 ### 最新活动
-```
+
 1.学习与面试指南  
 第一步基础学习：https://www.runoob.com/js/js-tutorial.html  
 
-第二步热点面试题：https://github.com/xv700/level.js.org/blob/master/%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md  
-```
+第二步热点面试题：https://github.com/xv700/level.js.org/blob/master/%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md   
+
 ### 前端游戏
 
 1.贪吃蛇源码     
