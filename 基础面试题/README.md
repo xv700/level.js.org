@@ -1,6 +1,10 @@
 # 提问题领红包
-https://github.com/xv700/level.js.org/issues
 
+规则（Appointment）
+1.star本项目，或者加入组织者可以进行本活动，提问连接https://github.com/xv700/level.js.org/issues  
+2.可以先提出问题，如果无法正确回答，并且你能给出正确答案本项目给予你6元红包，相反你需要给予我们1元红包。
+
+以下为样题
 1.JavaScript的基本类型。  
 2.var,let以及const有什么区别。  
 3.举列子说明什么叫JavaScript的闭包（Clourse），如何产生一个闭包（Clourse）。   
