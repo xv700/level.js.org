@@ -1,3 +1,6 @@
+#提问题领红包
+https://github.com/xv700/level.js.org/issues
+
 1.JavaScript的基本类型。  
 2.var,let以及const有什么区别。  
 3.举列子说明什么叫JavaScript的闭包（Clourse），如何产生一个闭包（Clourse）。   
