@@ -28,7 +28,7 @@ Approval:"",  //是否批准加入level组织，申请时候请留空
 1.学习与面试指南  
 第一步基础学习：https://www.runoob.com/js/js-tutorial.html  
 
-第二步热点面试题：https://github.com/xv700/level.js.org/blob/master/%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md   
+第二步热点面试题：https://github.com/xv700/level.js.org/tree/master/%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98
 
 ### 前端游戏
 
